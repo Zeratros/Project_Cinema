@@ -6,7 +6,7 @@ Vous avez un cinéma à Guéret dans la Creuse (23) qui est en perte de vitesse.
 ## Objectifs 🎯
 Le projet vise à revitaliser le cinéma de Guéret en se concentrant sur deux principaux objectifs :
 
-## ⌛ Temps imparti: 
+## Temps imparti ⌛ 
 6 semaines
 
 ### Spécialisation 🚀
